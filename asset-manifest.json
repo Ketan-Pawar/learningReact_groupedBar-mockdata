@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learningReact_groupedBar-mockdata/static/css/main.3a0eac0d.chunk.css",
+    "main.js": "/learningReact_groupedBar-mockdata/static/js/main.ce596847.chunk.js",
+    "main.js.map": "/learningReact_groupedBar-mockdata/static/js/main.ce596847.chunk.js.map",
+    "runtime-main.js": "/learningReact_groupedBar-mockdata/static/js/runtime-main.5be0795b.js",
+    "runtime-main.js.map": "/learningReact_groupedBar-mockdata/static/js/runtime-main.5be0795b.js.map",
+    "static/js/2.35f145d3.chunk.js": "/learningReact_groupedBar-mockdata/static/js/2.35f145d3.chunk.js",
+    "static/js/2.35f145d3.chunk.js.map": "/learningReact_groupedBar-mockdata/static/js/2.35f145d3.chunk.js.map",
+    "index.html": "/learningReact_groupedBar-mockdata/index.html",
+    "precache-manifest.8796c84b366ea897594524844e6ab3e8.js": "/learningReact_groupedBar-mockdata/precache-manifest.8796c84b366ea897594524844e6ab3e8.js",
+    "service-worker.js": "/learningReact_groupedBar-mockdata/service-worker.js",
+    "static/css/main.3a0eac0d.chunk.css.map": "/learningReact_groupedBar-mockdata/static/css/main.3a0eac0d.chunk.css.map",
+    "static/js/2.35f145d3.chunk.js.LICENSE.txt": "/learningReact_groupedBar-mockdata/static/js/2.35f145d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be0795b.js",
+    "static/js/2.35f145d3.chunk.js",
+    "static/css/main.3a0eac0d.chunk.css",
+    "static/js/main.ce596847.chunk.js"
+  ]
+}
